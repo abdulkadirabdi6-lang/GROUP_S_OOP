@@ -41,5 +41,5 @@ A Java Swing desktop application that:
   for providing an .accdb database.
 
 ## Author
-Group (S)  
-Abdirahman Yasin Farah
+Group S
+Abdulkadir abdi mohamed 
